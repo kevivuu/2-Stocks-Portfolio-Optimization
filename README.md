@@ -4,9 +4,9 @@ Please choose whether you want to invest in bonds (type 'b') or not (type 's').
 
 Then, select 2 out of the 5 F.A.A.N.G. companies (Meta, Apple, Amazon, Netflix, Google) by their stock ticker (META, AAPL, AMZN, NFLX, GOOG), case insensitive.
 
-If you selected a stock-only portfolio, the program will create a portfolio with the lowest risk possible.
+If you selected a stock-only portfolio, the program will create a portfolio with the lowest possible risk.
 
-If you selected a stock-and-bond portfolio, the program will ask for your Risk Aversion (how much you DISLIKE risk), please put in an integer from 1 to 10.
+If you selected a stock-and-bond portfolio, the program will ask for your Risk Aversion (how much you DISLIKE risk), please enter an integer from 1 to 10.
 
 The program then returns the optimal portfolio given your risk preference.
 
