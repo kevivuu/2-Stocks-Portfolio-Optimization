@@ -2,7 +2,7 @@ This program creates a Minimum Variance Porttfolio for 2 stocks or a risk-driven
 
 Please choose whether you want to invest in bonds (type 'b') or not (type 's').
 
-Then, select 2 out of the 5 F.A.A.N.G. companies (Meta, Apple, Amazon, Netflix, Google) by their stock ticker (META, AAPL, AMZN, NFLX, GOOG).
+Then, select 2 out of the 5 F.A.A.N.G. companies (Meta, Apple, Amazon, Netflix, Google) by their stock ticker (META, AAPL, AMZN, NFLX, GOOG), case insensitive.
 
 If you selected a stock-only portfolio, the program will create a portfolio with the lowest risk possible.
 
